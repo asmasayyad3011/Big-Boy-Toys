@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.header{
+    background-color: #fff;
+    box-shadow: 0px 6px 12px #0000001f;
+    opacity: 1;
+    height: 70px;
+}
+
+.logo img{
+    width: 130px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.input-group{
+   position: relative; 
+    margin-top: 10px;
+    width: 590px;
+}
+.input-group input{
+    border: 1px solid #B4B4B4;
+    border-radius: 7px;
+    background: #F5F5F5;
+    padding: 11px;
+}
+.search{
+    position: absolute;
+    top: 21px;
+    left: 947px;
+}
+.icon_list{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+.icon_item{
+    padding: 14px;
+}
+.icon_link{
+    text-decoration: none;
+}

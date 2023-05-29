@@ -1,0 +1,368 @@
+@media (max-width: 767px){
+	
+#collapsenavbar a:hover{
+	background: #ff0000;
+	color: #000000;
+}
+.child {
+    width: 100%;
+    height: 35vh;
+}
+.child h1 {
+	font-size: 34px;
+    letter-spacing: 2px;
+    padding: 15px;
+    margin-top: -115px;
+    word-spacing: 1px;
+}
+
+.input-data{
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 155px;
+}
+
+.input-data input{
+	height: 100%;
+    width: 90%;
+}
+.btnone{
+    right: 30px;
+    top: 3px;
+}
+.btn1{
+    width: 60%;
+    margin: 19px auto;
+    margin-right: 77px;	
+}
+.btn2 {
+    margin-top: 10px;
+    width: 60%;
+}
+.filterbtn{
+    padding: 13px 15px;
+}
+
+
+
+
+
+.planning h1{
+    font-size: 50px;
+}
+.planning{
+	margin-top: 100px;
+    width: 100%;
+}
+	
+.btnknowmore {
+    width: 150%;	
+}
+.btnknowmore:hover{
+	background: #000;
+	color: #fff;
+	width: 150%;
+}
+
+
+
+
+.browse{
+    background: black;
+    height: 730px;
+}
+
+.browse h1{
+    font-size: 45px;
+}
+.secimgicon img{
+    padding: 20px;
+}
+.secimgicon span{
+	color: #ccc;
+    margin: 10px;
+    font-size: 17px;
+}
+
+.btnexplore{
+	width: 380px;
+    margin: 65px 0px 0px;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+
+.rightvideo{
+	visibility: hidden;
+    
+}
+
+.imgsettingone img{
+	width:100%;
+}
+
+.popularbbt p{
+	 margin-left: 0px;
+    font-size: 20px;
+}
+.popularbbt h1{
+	margin-left: 0px;
+    font-size: 50px;
+}
+
+
+
+/*-------------------------------------------*/
+
+
+.howitworks{
+padding: 83px 0px 10px;
+}
+.rowsetting{
+margin: 100px 0px;
+}
+.howitworks h1{
+    margin-bottom: 24px;
+    font-size: 50px;
+}
+.rowsetting p {
+text-decoration: none;
+margin-top: 20px;
+font-size: 15px;
+color: #ccc;
+}
+.howitworks p{
+	letter-spacing: 2px;
+    margin: 0px;
+}
+.howitworks p{
+	letter-spacing: 2px;
+}
+.bg-black{
+	background-color: #000;
+}
+.imgsetting img{
+	height: 110px;
+    width: 110px;
+    padding: 20px;
+}
+.imgsetting {
+	position: relative
+}
+.rowsetting p ::after{
+	content:"&bull";
+	position: absolute;
+	border-bottom: 5px solid white;
+	display: block;
+	
+	
+}
+
+
+
+
+
+.fromthebbt h1{
+    font-size: 44px;
+}	
+
+.fromimgset{
+	position: relative;
+}
+
+.imgsetting1 img{
+	width: 100%;
+}
+
+.imgsetting2 img{
+    width: 100%;
+    height: 320px;
+    border-radius: 20px;
+
+}
+
+.imgsetting3 img{
+    width: 100%;
+    height: 325px;
+}
+
+.caption{
+	position: relative;
+	bottom: 45px;
+	left: 20px;
+}
+.caption h5{
+    padding: 0px 0px 0px 15px;
+}
+.caption a{
+	text-decoration: none;
+}
+.caplast{
+	writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+.caplast{
+	position: relative;
+	bottom: 100px;
+	left: 20px;
+}
+
+.aboutus{
+    width: 100%;
+}
+.knowus{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.seconeimg {
+background-image: url("car.webp");
+background-size: cover;
+position: relative;
+width: 100%;
+height: 700px;
+}
+
+.tosell {
+    padding: 40px 0px;
+}
+
+.planning .col-6 h2 br{
+    display: none;
+}
+
+.divleft{
+    margin: 0px;
+	position: relative;
+}
+.top1footer{
+	height: 200px;
+}
+.top1footer h6{
+    margin: 41px 0px 0px 0px;
+    font-size: 30px;
+}
+.followicon{
+	margin-left:20px;
+}
+.followicon i{
+    font-size: 23px;
+    margin: 37px 0px;
+    padding: 5px
+	
+}
+
+.allhead li{
+    margin: 0px;
+    font-size: 12px;
+}
+.allhead a{
+    padding: 0px 0px;
+}
+
+.searchbox button{
+    right: 15px;
+} 
+
+.searchbox input{
+width: 100%;
+} 
+.contact i{
+	 font-size: 20px;
+}
+.lastfoot p{
+    font-size: 14px;
+}
+.lastfoot{
+	height:100px;
+}
+.rightsidetxt{
+    left: 0px;
+    top: 55px;
+}
+.top1footer ul li{
+	font-size: 35px;
+}
+
+/*
+.allhead hr{
+	color: #fff;
+	margin-top: 20px;
+}
+
+.allhead a:hover{
+	color: #a6a6a6;
+}
+
+.followicon a{
+	text-decoration: none;
+	color: #ccc;
+}
+.followicon i{
+    font-size: 23px;
+    margin: 37px 0px;
+    padding: 5px
+	
+}
+.followicon{
+	margin-left:20px;
+}
+
+
+.row address{
+	color: #737373;
+
+}
+
+.contact hr {
+		color: #fff;
+	margin-top: 40px;
+}
+
+
+.alllinks{
+	margin-left: -26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
